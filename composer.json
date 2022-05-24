@@ -29,7 +29,7 @@
         }
     ],
     "require": {
-        "portphp/portphp": "dev-master"
+        "portphp/portphp": "dev-master as 1.6.2"
     },
     "autoload": {
         "psr-4": {
