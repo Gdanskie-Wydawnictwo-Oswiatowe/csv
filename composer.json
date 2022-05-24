@@ -22,8 +22,14 @@
         "source": "https://github.com/portphp/csv",
         "docs": "https://portphp.readthedocs.org"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Gdanskie-Wydawnictwo-Oswiatowe/portphp"
+        }
+    ],
     "require": {
-        "portphp/portphp": "^1.6.0"
+        "portphp/portphp": "dev-master"
     },
     "autoload": {
         "psr-4": {
